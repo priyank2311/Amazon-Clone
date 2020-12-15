@@ -1,0 +1,29 @@
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
+.checkout__line{
+    font-weight: 400;
+    margin: 0;
+    padding: 15px 8px;
+}
+.checkout__empty{
+    margin: 0 30px;
+    padding: 20px;
+}
+.checkout__empty h2{
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.checkout__empty a {
+    text-decoration: none;
+}
+.checkout__shopping{
+    margin: 0 30px;
+    padding: 20px;
+}
+.checkout__shopping h2{
+    font-weight: 400;
+}
